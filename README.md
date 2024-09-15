@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JAVA<br>🎯 Goals: Work in other countries and speak fluent english<br>🎲 Fun fact: I think Java is making me crazy</p>
+<p align="left">✨ Creating bugs since 2023 👶<br>📚 I'm currently learning JAVA ☕<br>🎯 Goals: Work in other countries 🌎 and speak fluent english <img src="https://camo.githubusercontent.com/5a3dc01f2680769dba3eea8ac87353555d3af6c0c22adbb425ad851f89016508/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3139372f3139373438342e706e67" width="15" height="15"><br>🎲 Fun fact: I think Java is making me crazy 🤯</p>
 
 ###
 
