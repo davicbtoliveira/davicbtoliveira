@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Davi Oliveira, I'm a software engineer student!
+## My name is Davi Oliveira, I'm a software engineer!
 A passionate software engineer student, with a keen interest in emerging technologies and the application of best development practices.
 
 ## 🌐 Socials:
