@@ -1,40 +1,20 @@
-# Hi there 👋
+### Hi there!👋
 
-## My name is Davi Oliveira, I'm a software engineer!
-A passionate software engineer student, with a keen interest in emerging technologies and the application of best development practices.
+I'm Davi, I write and operate backend systems.
 
- ## 🖥️ Tech Stack:
- ### Programming Languages
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
- 
-  
- ### Frameworks
- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+#### ⛏️ What I've been working on
+- **[davicbtoliveira/dotfiles](https://github.com/davicbtoliveira/dotfiles)** - My linux dotfiles
+- **[davicbtoliveira/spotui](https://github.com/davicbtoliveira/spotui)** - Spotify TUI client
+- **[davicbtoliveira/webOS](https://github.com/davicbtoliveira/webOS)** - Running Linux in a browser
 
- ### Databases
- ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
- ### Front End
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+#### 📖 Books I'm Reading
+- **[The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition (2nd Edition)](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)** by *Andrew Hunt and David Thomas*
+- **[Go Programming Language, The (Addison-Wesley Professional Computing Series)](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440?crid=1P4M5DVTMSG6Y&dib=eyJ2IjoiMSJ9.hRBKL3GK8sS1T4rm8utVtsoUPxiB6Tb7y5ltzeqyokhQLV29UAX4SgakKMrbGFSjGKgDbWdkgO9tQEVt9JnDI4eaZDVQ0nEnschyCjALxhZE6JcYCYzkWuU8uiPC-gQ9IAHMHgte5oiBM8x-Auq00YH88uIZv0oNt3GbJrmbBjj5j_L6ptz-J9-MtNsvhRB6uEr8l2JciDo_g3URmYwFe6qUuv3G8T6xarAWR-sCC0DMXyYxlVI36D2OAWanuYGiaEoy9QM1ARxkhl_HsF-Sz9V79ieGsl3ldOWz_gbnX34.t3S0uAZpMHUUCp1fjcEUvATPMMQQGS_EazmIXvQwpeQ&dib_tag=se&keywords=go+programming&qid=1777045969&s=books&sprefix=go+%2Cstripbooks%2C227&sr=1-4)** by *Alan Donovan and Brian Kernighan*
+- **[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B07D23CFGR?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.aVjxsZgNHJ6wfgiZ01PPLLaPt0AI33vsDoOE1vqzGzGPS5SATfeo2qla4RxcSuRVLk-O5MoczgDwagL82CjD2nDQsyuj-UvP-VRGTckEOoYhzZ474Thi8reuUN-5E9UVNIubeqGGCwqpr51JkO-J9hcZanzHKpbvrnzEJuqhPC8umJd_gGMvBYR9H5WuwkunqX-y9UC92QHVIMfr9-93Yl4-5h_RxHA1UJ17TH-YjE8.ogUZO4QFxcGRJCqB-iy8tDwixFR5EKYq-dR1lfRs8Yg&qid=1777046050&sr=1-1)** by *James Clear*
 
- ### Infra and OS
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
- 
 
- ### Development Tools
- ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
- ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
- ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+#### 📥 Where you can reach me
+- **[LinkedIn](https://www.linkedin.com/in/dcbto/)**
+- **[Email](mailto:davicbtoliveira@gmail.com)**
+- **[GitHub](https://github.com/davicbtoliveira/)**
