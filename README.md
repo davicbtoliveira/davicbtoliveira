@@ -3,7 +3,7 @@
 I'm Davi, I write and operate backend systems.
 
 #### ⛏️ What I've been working on
-- **[davicbtoliveira/dotfiles](https://github.com/davicbtoliveira/dotfiles)** - My linux dotfiles
+- **[davicbtoliveira/pokedex](https://github.com/davicbtoliveira/pokedex)** - Pokedex CLI app
 - **[davicbtoliveira/spotui](https://github.com/davicbtoliveira/spotui)** - Spotify TUI client
 - **[davicbtoliveira/webOS](https://github.com/davicbtoliveira/webOS)** - Running Linux in a browser
 
