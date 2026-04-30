@@ -19,8 +19,8 @@ I'm Davi, I build things that run in the background and keep everything else ali
 
 #### 📚 Books I'm reading
 
-{{- range literalCurrentlyReading 3 }}
-- **{{ .Title }} - {{ .Subtitle }}** by _{{ range .Authors }}{{ .Name }}{{ end }}_
+{{- range goodReadsCurrentlyReading 3 }}
+- **[{{ .Book.Title }}]({{ .Book.Link }})** by _{{ range .Book.Authors }}{{ .Name }}{{ end }}_
 {{- end }}
 
 
