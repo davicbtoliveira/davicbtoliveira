@@ -1,11 +1,19 @@
-### Hi there!👋
+### Hi there 👋
 
-I'm Davi, I write and operate backend systems.
+I'm Davi, I build things that run in the background and keep everything else alive.
+
+#### 👨‍💻 Repositories I created recently
+
+- [davicbtoliveira/pokedex](https://github.com/davicbtoliveira/pokedex) - CLI pokedex app in Go
+- [davicbtoliveira/TextTiling](https://github.com/davicbtoliveira/TextTiling) - NLP text tiling algorithm implementation in Go
+- [davicbtoliveira/webOS](https://github.com/davicbtoliveira/webOS) - Linux running on web
+
 
 #### ⛏️ What I've been working on
-- **[davicbtoliveira/pokedex](https://github.com/davicbtoliveira/pokedex)** - Pokedex CLI app
-- **[davicbtoliveira/spotui](https://github.com/davicbtoliveira/spotui)** - Spotify TUI client
-- **[davicbtoliveira/webOS](https://github.com/davicbtoliveira/webOS)** - Running Linux in a browser
+
+- [davicbtoliveira/pokedex](https://github.com/davicbtoliveira/pokedex) - CLI pokedex app in Go
+- [davicbtoliveira/TextTiling](https://github.com/davicbtoliveira/TextTiling) - NLP text tiling algorithm implementation in Go
+- [davicbtoliveira/webOS](https://github.com/davicbtoliveira/webOS) - Linux running on web
 
 
 #### 📖 Books I'm Reading
@@ -15,6 +23,6 @@ I'm Davi, I write and operate backend systems.
 
 
 #### 📥 Where you can reach me
-- **[LinkedIn](https://www.linkedin.com/in/dcbto/)**
-- **[Email](mailto:davicbtoliveira@gmail.com)**
-- **[GitHub](https://github.com/davicbtoliveira/)**
+- [LinkedIn](https://www.linkedin.com/in/dcbto/)
+- [E-mail](mailto:davicbtoliveira@gmail.com)
+- [GitHub](https://github.com/davicbtoliveira)
