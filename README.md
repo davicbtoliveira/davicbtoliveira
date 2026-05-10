@@ -4,14 +4,14 @@ I'm Davi, I build things that run in the background and keep everything else ali
 
 #### 👨‍💻 Repositories I created recently
 
-- [davicbtoliveira/RssAggregator](https://github.com/davicbtoliveira/RssAggregator) - A RSS feed Aggregator made using Go and Postgres
+- [davicbtoliveira/gator](https://github.com/davicbtoliveira/gator) - A RSS feed Aggregator made using Go and Postgres
 - [davicbtoliveira/pokedex](https://github.com/davicbtoliveira/pokedex) - CLI pokedex app in Go
 - [davicbtoliveira/TextTiling](https://github.com/davicbtoliveira/TextTiling) - NLP text tiling algorithm implementation in Go
 
 
 #### ⛏️ What I've been working on
 
-- [davicbtoliveira/RssAggregator](https://github.com/davicbtoliveira/RssAggregator) - A RSS feed Aggregator made using Go and Postgres
+- [davicbtoliveira/gator](https://github.com/davicbtoliveira/gator) - A RSS feed Aggregator made using Go and Postgres
 - [davicbtoliveira/pokedex](https://github.com/davicbtoliveira/pokedex) - CLI pokedex app in Go
 - [davicbtoliveira/TextTiling](https://github.com/davicbtoliveira/TextTiling) - NLP text tiling algorithm implementation in Go
 
