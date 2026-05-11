@@ -11,8 +11,8 @@ I'm Davi, I build things that run in the background and keep everything else ali
 
 #### ⛏️ What I've been working on
 
-- [davicbtoliveira/http-server](https://github.com/davicbtoliveira/http-server) - A http server built in Go
 - [davicbtoliveira/gator](https://github.com/davicbtoliveira/gator) - A RSS feed Aggregator made using Go and Postgres
+- [davicbtoliveira/http-server](https://github.com/davicbtoliveira/http-server) - A http server built in Go
 - [davicbtoliveira/pokedex](https://github.com/davicbtoliveira/pokedex) - CLI pokedex app in Go
 
 
