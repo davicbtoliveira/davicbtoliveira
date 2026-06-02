@@ -4,16 +4,16 @@ I'm Davi, I build things that run in the background and keep everything else ali
 
 #### 👨‍💻 Repositories I created recently
 
+- [davicbtoliveira/http4noobs](https://github.com/davicbtoliveira/http4noobs) - 
 - [davicbtoliveira/http-server](https://github.com/davicbtoliveira/http-server) - A http server built in Go
 - [davicbtoliveira/gator](https://github.com/davicbtoliveira/gator) - A RSS feed Aggregator made using Go and Postgres
-- [davicbtoliveira/pokedex](https://github.com/davicbtoliveira/pokedex) - CLI pokedex app in Go
 
 
 #### ⛏️ What I've been working on
 
+- [davicbtoliveira/http4noobs](https://github.com/davicbtoliveira/http4noobs) - 
 - [davicbtoliveira/ai-agent](https://github.com/davicbtoliveira/ai-agent) - An ai-agent inspired by cursor, windsurf and others.
 - [davicbtoliveira/http-server](https://github.com/davicbtoliveira/http-server) - A http server built in Go
-- [davicbtoliveira/gator](https://github.com/davicbtoliveira/gator) - A RSS feed Aggregator made using Go and Postgres
 
 
 #### 📖 Books I'm Reading
