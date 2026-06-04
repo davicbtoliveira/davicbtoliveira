@@ -11,9 +11,9 @@ I'm Davi, I build things that run in the background and keep everything else ali
 
 #### ⛏️ What I've been working on
 
+- [he4rt/marketing-extension](https://github.com/he4rt/marketing-extension) - Chrome extension that passively captures X/Twitter GraphQL responses to track community engagement. Exports structured JSON for He4rt Hub ingestion.
 - [davicbtoliveira/http4noobs](https://github.com/davicbtoliveira/http4noobs) - Introdução sobre o método HTTP para iniciantes 💜
 - [davicbtoliveira/ai-agent](https://github.com/davicbtoliveira/ai-agent) - An ai-agent inspired by cursor, windsurf and others.
-- [davicbtoliveira/http-server](https://github.com/davicbtoliveira/http-server) - A http server built in Go
 
 
 #### 📖 Books I'm Reading
