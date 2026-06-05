@@ -4,16 +4,16 @@ I'm Davi, I build things that run in the background and keep everything else ali
 
 #### 👨‍💻 Repositories I created recently
 
+- [davicbtoliveira/duck-learn](https://github.com/davicbtoliveira/duck-learn) - 
 - [davicbtoliveira/portfolio](https://github.com/davicbtoliveira/portfolio) - My portfolio 🌐
 - [davicbtoliveira/http4noobs](https://github.com/davicbtoliveira/http4noobs) - Introdução sobre o método HTTP para iniciantes 💜
-- [davicbtoliveira/http-server](https://github.com/davicbtoliveira/http-server) - A http server built in Go
 
 
 #### ⛏️ What I've been working on
 
-- [davicbtoliveira/imageforge](https://github.com/davicbtoliveira/imageforge) - Edit your images in terminal
 - [davicbtoliveira/portfolio](https://github.com/davicbtoliveira/portfolio) - My portfolio 🌐
-- [he4rt/marketing-extension](https://github.com/he4rt/marketing-extension) - Chrome extension that passively captures X/Twitter GraphQL responses to track community engagement. Exports structured JSON for He4rt Hub ingestion.
+- [davicbtoliveira/duck-learn](https://github.com/davicbtoliveira/duck-learn) - 
+- [davicbtoliveira/imageforge](https://github.com/davicbtoliveira/imageforge) - Edit your images in terminal
 
 
 #### 📖 Books I'm Reading
