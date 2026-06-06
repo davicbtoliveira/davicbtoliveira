@@ -11,9 +11,9 @@ I'm Davi, I build things that run in the background and keep everything else ali
 
 #### ⛏️ What I've been working on
 
+- [davicbtoliveira/duck-learn](https://github.com/davicbtoliveira/duck-learn) - Explain to a duck
 - [davicbtoliveira/portfolio](https://github.com/davicbtoliveira/portfolio) - My portfolio 🌐
 - [davicbtoliveira/imageforge](https://github.com/davicbtoliveira/imageforge) - Edit your images in terminal
-- [davicbtoliveira/duck-learn](https://github.com/davicbtoliveira/duck-learn) - Explain to a duck
 
 
 #### 📖 Books I'm Reading
