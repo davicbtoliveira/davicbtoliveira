@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Davi, I build things that run in the background and keep everything else alive.
+I'm Davi, I build and maintain software.
 
 #### 👨‍💻 Repositories I created recently
 {{range recentRepos 3}}
