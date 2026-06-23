@@ -11,9 +11,9 @@ I'm Davi, I build and maintain software.
 
 #### ⛏️ What I've been working on
 
+- [davicbtoliveira/spotui](https://github.com/davicbtoliveira/spotui) - A TUI spotify client made in Go
 - [davicbtoliveira/imageforge](https://github.com/davicbtoliveira/imageforge) - Edit your images in terminal
 - [davicbtoliveira/portfolio](https://github.com/davicbtoliveira/portfolio) - My portfolio 🌐
-- [he4rt/marketing-extension](https://github.com/he4rt/marketing-extension) - Chrome extension that passively captures X/Twitter GraphQL responses to track community engagement. Exports structured JSON for He4rt Hub ingestion.
 
 
 #### 📖 Books I'm Reading
