@@ -4,16 +4,16 @@ I'm Davi, I build and maintain software.
 
 #### 👨‍💻 Repositories I created recently
 
+- [davicbtoliveira/skills](https://github.com/davicbtoliveira/skills) - 
 - [davicbtoliveira/portfolio](https://github.com/davicbtoliveira/portfolio) - My portfolio 🌐
 - [davicbtoliveira/http4noobs](https://github.com/davicbtoliveira/http4noobs) - Introdução sobre o método HTTP para iniciantes 💜
-- [davicbtoliveira/http-server](https://github.com/davicbtoliveira/http-server) - A http server built in Go
 
 
 #### ⛏️ What I've been working on
 
+- [davicbtoliveira/qrcoder](https://github.com/davicbtoliveira/qrcoder) - single-page qrcode generator
 - [davicbtoliveira/portfolio](https://github.com/davicbtoliveira/portfolio) - My portfolio 🌐
 - [davicbtoliveira/spotui](https://github.com/davicbtoliveira/spotui) - A TUI spotify client made in Go
-- [davicbtoliveira/imageforge](https://github.com/davicbtoliveira/imageforge) - Edit your images in terminal
 
 
 #### 📖 Books I'm Reading
