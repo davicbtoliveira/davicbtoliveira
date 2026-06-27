@@ -4,15 +4,15 @@ I'm Davi, I build and maintain software.
 
 #### 👨‍💻 Repositories I created recently
 
-- [davicbtoliveira/merchant-cad](https://github.com/davicbtoliveira/merchant-cad) - 
+- [davicbtoliveira/merchant-cad](https://github.com/davicbtoliveira/merchant-cad) - Django REST API for merchant registry
 - [davicbtoliveira/skills](https://github.com/davicbtoliveira/skills) - My agents skills straight from my .agents/skills directory
 - [davicbtoliveira/portfolio](https://github.com/davicbtoliveira/portfolio) - My portfolio 🌐
 
 
 #### ⛏️ What I've been working on
 
+- [davicbtoliveira/merchant-cad](https://github.com/davicbtoliveira/merchant-cad) - Django REST API for merchant registry
 - [davicbtoliveira/spotui](https://github.com/davicbtoliveira/spotui) - A TUI spotify client made in Go
-- [davicbtoliveira/merchant-cad](https://github.com/davicbtoliveira/merchant-cad) - 
 - [davicbtoliveira/qrcoder](https://github.com/davicbtoliveira/qrcoder) - single-page qrcode generator
 
 
