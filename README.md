@@ -4,16 +4,16 @@ I'm Davi, I build and maintain software.
 
 #### 👨‍💻 Repositories I created recently
 
+- [davicbtoliveira/private-direct](https://github.com/davicbtoliveira/private-direct) - 
 - [davicbtoliveira/merchant-cad](https://github.com/davicbtoliveira/merchant-cad) - Django REST API for merchant registry
 - [davicbtoliveira/skills](https://github.com/davicbtoliveira/skills) - My agents skills straight from my .agents/skills directory
-- [davicbtoliveira/portfolio](https://github.com/davicbtoliveira/portfolio) - My portfolio 🌐
 
 
 #### ⛏️ What I've been working on
 
+- [davicbtoliveira/portfolio](https://github.com/davicbtoliveira/portfolio) - My portfolio 🌐
+- [davicbtoliveira/private-direct](https://github.com/davicbtoliveira/private-direct) - 
 - [davicbtoliveira/merchant-cad](https://github.com/davicbtoliveira/merchant-cad) - Django REST API for merchant registry
-- [davicbtoliveira/skills](https://github.com/davicbtoliveira/skills) - My agents skills straight from my .agents/skills directory
-- [davicbtoliveira/spotui](https://github.com/davicbtoliveira/spotui) - A TUI spotify client made in Go
 
 
 #### 📖 Books I'm Reading
