@@ -4,15 +4,15 @@ I'm Davi, I build and maintain software.
 
 #### 👨‍💻 Repositories I created recently
 
-- [davicbtoliveira/private-direct](https://github.com/davicbtoliveira/private-direct) - 
+- [davicbtoliveira/private-direct](https://github.com/davicbtoliveira/private-direct) - Self-hosted, privacy-first direct messaging. The server handles identity, contact consent, and online presence. Chat messages travel P2P over WebRTC data channels and never touch the server.
 - [davicbtoliveira/merchant-cad](https://github.com/davicbtoliveira/merchant-cad) - Django REST API for merchant registry
 - [davicbtoliveira/skills](https://github.com/davicbtoliveira/skills) - My agents skills straight from my .agents/skills directory
 
 
 #### ⛏️ What I've been working on
 
+- [davicbtoliveira/private-direct](https://github.com/davicbtoliveira/private-direct) - Self-hosted, privacy-first direct messaging. The server handles identity, contact consent, and online presence. Chat messages travel P2P over WebRTC data channels and never touch the server.
 - [davicbtoliveira/portfolio](https://github.com/davicbtoliveira/portfolio) - My portfolio 🌐
-- [davicbtoliveira/private-direct](https://github.com/davicbtoliveira/private-direct) - 
 - [davicbtoliveira/merchant-cad](https://github.com/davicbtoliveira/merchant-cad) - Django REST API for merchant registry
 
 
