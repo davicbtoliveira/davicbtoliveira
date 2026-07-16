@@ -12,8 +12,8 @@ I'm Davi, I build and maintain software.
 #### ⛏️ What I've been working on
 
 - [davicbtoliveira/private-direct](https://github.com/davicbtoliveira/private-direct) - Self-hosted, privacy-first direct messaging. The server handles identity, contact consent, and online presence. Chat messages travel P2P over WebRTC data channels and never touch the server.
+- [gabriel-logan/stockfish](https://github.com/gabriel-logan/stockfish) - A complete chess platform with a Go engine server, Rust multiplayer API, and React frontend. Play against adjustable Stockfish strength, review PGNs with engine evaluations and move classifications, study openings, practice custom positions, save games, and play online.
 - [davicbtoliveira/portfolio](https://github.com/davicbtoliveira/portfolio) - My portfolio 🌐
-- [davicbtoliveira/merchant-cad](https://github.com/davicbtoliveira/merchant-cad) - Django REST API for merchant registry
 
 
 #### 📖 Books I'm Reading
