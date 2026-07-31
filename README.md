@@ -11,9 +11,9 @@ I'm Davi, I build and maintain software.
 
 #### ⛏️ What I've been working on
 
-- [davicbtoliveira/TermKeep](https://github.com/davicbtoliveira/TermKeep) - Self-hosted zero-knowledge password vault for the terminal
 - [davicbtoliveira/portfolio](https://github.com/davicbtoliveira/portfolio) - My portfolio 🌐
-- [davicbtoliveira/Escrow](https://github.com/davicbtoliveira/Escrow) - B2B2C custody simulation for marketplaces and online stores.
+- [davicbtoliveira/spotui](https://github.com/davicbtoliveira/spotui) - A TUI spotify client made in Go
+- [davicbtoliveira/TermKeep](https://github.com/davicbtoliveira/TermKeep) - Self-hosted zero-knowledge password vault for the terminal
 
 
 #### 📥 Where you can reach me
